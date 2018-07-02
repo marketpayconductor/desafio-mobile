@@ -39,8 +39,13 @@ Deverá consumir a seguinte api: https://documenter.getpostman.com/view/313904/R
 
   - iOS:
   
+      ![alt text](https://github.com/marketpayconductor/desafio-mobile/blob/master/iPhone%206-7-8%20%E2%80%93%201.png)
+      ![alt text](https://github.com/marketpayconductor/desafio-mobile/blob/master/iPhone%206-7-8%20%E2%80%93%202.png)
+      
   - Android:
   
+    ![alt text](https://github.com/marketpayconductor/desafio-mobile/blob/master/Android%20Mobile%20%E2%80%93%201.png)
+    ![alt text](https://github.com/marketpayconductor/desafio-mobile/blob/master/Android%20Mobile%20%E2%80%93%202.png)
 
 ### Instruções
       1. Faça o fork do desafio;
