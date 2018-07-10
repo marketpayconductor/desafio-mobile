@@ -35,11 +35,17 @@ Deverá consumir a seguinte api: [Postman Documenter](https://documenter.getpost
   
   ![alt text](iPhone%206-7-8%20%E2%80%93%201.png)
   ![alt text](iPhone%206-7-8%20%E2%80%93%202.png)
+  [Adobe XD Spec](https://xd.adobe.com/spec/bf0c9df9-0d61-4be8-475c-b9e17808dae8-c93d/)
+  [Adobe XD Prototype](https://xd.adobe.com/view/1beef0e9-5ec7-4325-4f28-c75e1e6d76b7-6ddf/)
+  [Assets](https://s3.amazonaws.com/desafio-mobile/iOS.zip)
 
 - Android:
   
   ![alt text](Android%20Mobile%20%E2%80%93%201.png)
   ![alt text](Android%20Mobile%20%E2%80%93%202.png)
+  [Adobe XD Spec](https://xd.adobe.com/spec/dd17fb1e-6a3a-47a7-5195-48494891a426-ab26/)
+  [Adobe XD Prototype](https://xd.adobe.com/view/0a63fe08-096c-4057-5ec9-90d6240cbd07-7c52/)
+  [Assets](https://s3.amazonaws.com/desafio-mobile/Android.zip)
 
 ### Instruções
 
