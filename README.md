@@ -60,6 +60,6 @@ Deverá consumir a seguinte api: [Postman Documenter](https://documenter.getpost
  1. Faça o fork do desafio;
  2. Desenvolva. Você terá 3 (três) dias a partir da data do envio do desafio;
  3. Crie um arquivo de texto com a nomenclatura README.MD com a explicação de como devemos executar o projeto e com uma descrição do que foi feito;
- 4. Após concluir seu trabalho envie o que foi desenvolvido em um arquivo .zip para o e-mail fernando.farias@conductor.com.br, juliano.tozzi@conductor.com.br e andre.soares@conductor.com.br;
+ 4. Após concluir seu trabalho envie o que foi desenvolvido em um arquivo .zip para o e-mail bruno.nobrega@conductor.com.br, juliano.tozzi@conductor.com.br e andre.soares@conductor.com.br;
 
 Desejamos boa sorte e que a força esteja com você!
